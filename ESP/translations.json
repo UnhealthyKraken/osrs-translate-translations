@@ -151848,5 +151848,9 @@
   "[player] is the bestest adventurer EVER!": "[player] es el mejor aventurero DE TODOS LOS TIEMPOS.",
   "[player] won't give me sweets!": "[player] no quiere darme dulces.",
   "[player]! Good t' see you!": "¡[player]! ¡Me alegra verte!",
-  "[player]. I must admit, things are very tiring at the moment. Even with help from mother, controlling this... condition takes a lot of work.": "[player]. Debo admitir que las cosas son muy agotadoras ahora mismo. Incluso con la ayuda de madre, controlar esta... condición requiere mucho trabajo."
+  "[player]. I must admit, things are very tiring at the moment. Even with help from mother, controlling this... condition takes a lot of work.": "[player]. Debo admitir que las cosas son muy agotadoras ahora mismo. Incluso con la ayuda de madre, controlar esta... condición requiere mucho trabajo.",
+  "[option] / [number] more options": "[option] / [number] opciones más",
+  "+[number] option": "+[number] opción",
+  "+[number] options": "+[number] opciones",
+  "Combat Lvl: [number]": "Nivel de combate: [number]"
 }
